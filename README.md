@@ -248,7 +248,7 @@ Team Collaboration  ███████████████████░
 
 ### ⭐️ From [Kankalanandu](https://github.com/Kankalanandu) | 💙 Open to collaboration and exciting projects!
 
-![Snake animation](https://raw.githubusercontent.com/Kankalanandu/Kankalanandu/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://raw.githubusercontent.com/Kankalanandu/Kankalanandu/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Kankalanandu/Kankalanandu/output/github-contribution-grid-snake.svg))
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
