@@ -7,7 +7,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Kankalanandu?style=for-the-badge&color=yellow)](https://github.com/Kankalanandu?tab=repositories)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BTech+Student+%7C+Data+Scientist;Machine+Learning+Engineer;Full+Stack+Developer;Problem+Solver+%7C+Innovator" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -72,16 +71,14 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kankalanandu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kankalanandu&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kankalanandu&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kankalanandu&layout=compact&theme=tokyonight" height="180em"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kankalanandu&theme=tokyonight" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kankalanandu&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kankalanandu&theme=tokyo-night&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kankalanandu&theme=tokyonight"/>
 </div>
 
 ---
@@ -248,8 +245,7 @@ Team Collaboration  ███████████████████░
 
 ### ⭐️ From [Kankalanandu](https://github.com/Kankalanandu) | 💙 Open to collaboration and exciting projects!
 
-![Snake animation]([https://raw.githubusercontent.com/Kankalanandu/Kankalanandu/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Kankalanandu/Kankalanandu/output/github-contribution-grid-snake.svg))
+![Snake animation](https://raw.githubusercontent.com/Kankalanandu/Kankalanandu/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 </div>
